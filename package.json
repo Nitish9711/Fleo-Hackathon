@@ -1,0 +1,24 @@
+{
+  "name": "fleo-hackathon",
+  "version": "1.0.0",
+  "description": "hackathon project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitish9711/Fleo-Hackathon.git"
+  },
+  "author": "Nitish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitish9711/Fleo-Hackathon/issues"
+  },
+  "homepage": "https://github.com/Nitish9711/Fleo-Hackathon#readme"
+}
